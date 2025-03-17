@@ -1,6 +1,6 @@
 
 # Step 1: Clone the repository using the project's Git URL.
-git clone [<YOUR_GIT_URL>](https://github.com/elouanhaquin/cesi-test)
+git clone https://github.com/elouanhaquin/cesi-test
 
 # Step 2: Navigate to the project directory.
 cd cesi-test
